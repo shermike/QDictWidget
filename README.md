@@ -1,0 +1,4 @@
+QDictWidget
+===========
+
+QDictWidget
