@@ -1,0 +1,155 @@
+{
+  "test": {
+    "str": "string", 
+    "int": 12345, 
+    "float": 123.45, 
+    "bool": true, 
+    "super": {
+      "dscr": "sstring", 
+      "ii": 7899, 
+      "ff": 45.25, 
+      "bb": false, 
+      "input_reg": [
+        {
+          "addr": 256, 
+          "dscr": "OFF_CAUSE", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 257, 
+          "dscr": "ACT_GUARDS", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 258, 
+          "dscr": "I_A_SEM", 
+          "fmt": "{.1}"
+        }, 
+        {
+          "addr": 259, 
+          "dscr": "I_B_SEM", 
+          "fmt": "{.1}"
+        }, 
+        {
+          "addr": 260, 
+          "dscr": "I_C_SEM", 
+          "fmt": "{.1}"
+        }, 
+        {
+          "addr": 261, 
+          "dscr": "I_DIS_SEM", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 262, 
+          "dscr": "UL_AB", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 263, 
+          "dscr": "UL_BC", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 264, 
+          "dscr": "UL_CA", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 265, 
+          "dscr": "UL_DIS", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 266, 
+          "dscr": "R_IS", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 267, 
+          "dscr": "COS_FI", 
+          "fmt": "{.2}"
+        }, 
+        {
+          "addr": 268, 
+          "dscr": "LOAD", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 269, 
+          "dscr": "PA", 
+          "fmt": "{.1}"
+        }, 
+        {
+          "addr": 270, 
+          "dscr": "I_MEAN_SEM", 
+          "fmt": "{.1}"
+        }, 
+        {
+          "addr": 271, 
+          "dscr": "T_SEM", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 272, 
+          "dscr": "P_SURR", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 273, 
+          "end_addr": 277
+        }, 
+        {
+          "addr": 278, 
+          "dscr": "DYN_LVL", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 279, 
+          "dscr": "TOTAL_STARTS", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 280
+        }, 
+        {
+          "addr": 281
+        }, 
+        {
+          "addr": 282
+        }, 
+        {
+          "addr": 283, 
+          "dscr": "T_SURR", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 284, 
+          "dscr": "XY_VIBR", 
+          "fmt": "{.1:98}"
+        }, 
+        {
+          "addr": 285, 
+          "dscr": "XY_VIBR", 
+          "fmt": "{.1:98}"
+        }, 
+        {
+          "addr": 286, 
+          "dscr": "P_VYKID", 
+          "fmt": "{.}"
+        }, 
+        {
+          "addr": 287, 
+          "dscr": "T_VYKID", 
+          "fmt": "{.}"
+        }
+      ]
+    }
+  }, 
+  "array": [
+    "asd", 
+    1, 
+    2, 
+    "dsa"
+  ]
+}
